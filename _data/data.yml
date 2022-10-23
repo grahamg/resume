@@ -10,8 +10,6 @@ contact:
   phone: +1 (773) 558-7814 
   gitlab: 
   twitter: 
-languages:
-  - idiom: English
 
 education:
   - degree: BSc in Computer Science
@@ -19,12 +17,18 @@ education:
     university: University of Missouri
 
 skills:
-  - category: Backend
+  - category: Languages
     skill: 
       - Java
       - Python 2.x, 3.x
       - PHP
       - JavaScript
+  - category: Backend
+    skill:
+      - Django
+      - Spring
+      - Node.js
+      - Laravel
   - category: Frontend
     skill:
       - React
@@ -44,8 +48,8 @@ profile: |
 # Experience
 experience:
   - role: Software Engineer
-    time: 2020-Present
-    company: Google
+    time: January 2019-Present
+    company: Performics, Publicis Groupe
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
