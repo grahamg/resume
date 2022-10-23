@@ -17,7 +17,7 @@ education:
     university: University of Missouri
 
 skills:
-  - category: Languages
+  - category: Language
     skill: 
       - Java
       - Python 2.x, 3.x
@@ -38,12 +38,12 @@ skills:
       - Kubernetes 
 
 # Profile
-profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+#profile: |
+#  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+#  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+#  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+#  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
+#  fugiat nulla pariatur.
 
 # Experience
 experience:
@@ -57,7 +57,7 @@ experience:
       Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
       fugiat nulla pariatur.
     technologies_used: | 
-      Go, Angular, Typescript, C++
+      Google Cloud, AWS, Java, Spring, Node.JS, React
   
   - role: Researcher
     time: 2016-2020
@@ -70,17 +70,6 @@ experience:
       fugiat nulla pariatur.
     technologies_used: | 
       Python, Tensorflow, Keras, Matlab
-
-publications:
-  - title: Random title of paper. An interesting one.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
-
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
 
 projects:
   - title: Cool Project 
@@ -96,11 +85,11 @@ projects:
       tempor incididunt ut labore et dolore magna aliqua.
 
 # Volunteering
-volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+#volunteering:
+#  - time: 2020-Present
+#    role: PR Manager
+#    company: Some random organization
+#    details: |
+#      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+#      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+#      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
