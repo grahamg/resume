@@ -1,39 +1,33 @@
-name: John Doe
+name: Graham Greenfield
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
-  phone: 
+  email: grahamg@fastmail.com
+  github: grahamg
+  linkedin: grahamgre 
+  phone: +1 (773) 558-7814 
   gitlab: 
   twitter: 
-
 languages:
   - idiom: English
-  - idiom: Russian
-  - idiom: French
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
-
   - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+    time: 2004-2019
+    university: University of Missouri
 
 skills:
   - category: Backend
     skill: 
-      - Go
-      - Rust
+      - Java
+      - Python 2.x, 3.x
+      - PHP
+      - JavaScript
   - category: Frontend
     skill:
       - React
-      - Typescript
   - category: DevOps
     skill:
       - Docker
