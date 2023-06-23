@@ -19,7 +19,7 @@ skills:
   - category: Language
     skill: 
       - Java
-      - Python 2.x, 3.x
+      - Python
       - PHP
       - JavaScript
       - TypeScript
@@ -57,14 +57,12 @@ experience:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
       quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
     technologies_used: | 
       Google Cloud, AWS, Java, Spring, Node.JS, React
   
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
+  - role: Software Developer
+    time: 2017-2019
+    company: Rotary International
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
@@ -72,7 +70,31 @@ experience:
       Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
       fugiat nulla pariatur.
     technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+      PHP, Docker, Drupal, Node.JS, JavaScript
+
+  - role: Software Developer
+    time: 2013-2017
+    company: Steadfast Networks, LLC.
+    details: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
+      fugiat nulla pariatur.
+    technologies_used: | 
+      Python, PHP, JavaScript, Django, Docker
+
+  - role: Software Developer
+    time: 2012-2013
+    company: Digital Management Partners, Inc.
+    details: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
+      fugiat nulla pariatur.
+    technologies_used: | 
+      PHP, Docker, Django, Python, JavaScript, Backbone.JS
 
 projects:
   - title: Cool Project 
