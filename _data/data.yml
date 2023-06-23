@@ -4,17 +4,16 @@ fork: true
 
 # Sidebar
 contact:
-  email: grahamg@fastmail.com
+  email: grahamg@gmail.com
   github: grahamg
-  linkedin: grahamgre 
-  phone: +1 (773) 558-7814 
+  linkedin: grahamgre  
   gitlab: 
   twitter: 
 
 education:
   - degree: BSc in Computer Science
     time: 2004-2009
-    university: University of Missouri
+    university: University of Missouri-Columbia
 
 skills:
   - category: Language
@@ -23,6 +22,9 @@ skills:
       - Python 2.x, 3.x
       - PHP
       - JavaScript
+      - TypeScript
+      - Go
+      - C
   - category: Backend
     skill:
       - Django
@@ -32,6 +34,7 @@ skills:
   - category: Frontend
     skill:
       - React
+      - JSX
   - category: DevOps
     skill:
       - Docker
