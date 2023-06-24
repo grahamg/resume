@@ -1,4 +1,4 @@
-# grahamg.github.com/cv/
+# grahamg.github.com/resume/
 
 ## Installation
 - [Fork](https://github.com/stavrospanakakis/jekyll-cv/fork) the repository
