@@ -103,11 +103,6 @@ projects:
       Node.JS service built with Express.js that provides a publically accessible UI in React.js.
       Ability to play chess between two players moderated through Email correspondence, using a graphical
       JavaScript based game board.
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
 
 # Volunteering
 #volunteering:
