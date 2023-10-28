@@ -97,12 +97,12 @@ experience:
       PHP, Docker, Django, Python, JavaScript, Backbone.JS
 
 projects:
-  - title: Cool Project 
-    link: #
+  - title: Chess via email
+    link: https://www.chessvia.email
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
-
+      Node.JS service built with Express.js that provides a publically accessible UI in React.js.
+      Ability to play chess between two players moderated through Email correspondence, using a graphical
+      JavaScript based game board.
   - title: Cool Project 
     link: #
     details: |
