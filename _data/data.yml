@@ -54,11 +54,9 @@ experience:
     time: January 2019-Present
     company: Performics, Publicis Groupe
     details: |
-      - Maintained custom Django-based CMS to manage client advertising campaigns.
-      
-      - Member of Benchtools product team, developing new features, triaging existing bugs, reviewing submitted code from other developers be merged. Requirements gathering and prototyping new features. 
-      
-      - Implemented a system for managing and syndicating data pertaining to physical locations, typically for client who operate several instances of them. Designed around the expectation that a client will provide a dataset of location details on an occasional basis like a REST API. 
+      * Maintained custom Django-based CMS to manage client advertising campaigns.
+      * Member of Benchtools product team, developing new features, triaging existing bugs, reviewing submitted code from other developers be merged. Requirements gathering and prototyping new features. 
+      * Implemented a system for managing and syndicating data pertaining to physical locations, typically for client who operate several instances of them. Designed around the expectation that a client will provide a dataset of location details on an occasional basis like a REST API. 
     technologies_used: | 
       Google Cloud, AWS, Java, Spring, Node.JS, React
   
