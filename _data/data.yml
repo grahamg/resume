@@ -2,7 +2,7 @@ name: Graham Greenfield
 support_dark_mode: true
 fork: true
 contact:
-  email: grahamg@gmail.com
+  email: ggreenfield@duck.com
   github: grahamg
   linkedin: grahamgre
   gitlab: null
@@ -40,14 +40,13 @@ experience:
     time: January 2019-Present
     company: 'Performics, Publicis Groupe'
     details1: |
-      - Maintained custom Django-based CMS to manage client advertising
-      campaigns.
+      • Maintained custom Django-based CMS to manage client advertising campaigns.
     details2: |
-      - Member of Benchtools product team, developing new features, triaging
+      • Member of Benchtools product team, developing new features, triaging
       existing bugs, reviewing submitted code from other developers be merged.
       Requirements gathering and prototyping new features.
     details3: |
-      - Implemented a system for managing and syndicating data pertaining to
+      • Implemented a system for managing and syndicating data pertaining to
       physical locations, typically for client who operate several instances of
       them. Designed around the expectation that a client will provide a dataset
       of location details on an occasional basis like a REST API. 
@@ -56,55 +55,34 @@ experience:
   - role: Software Developer
     time: 2017-2019
     company: Rotary International
-    details: >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-      veniam, 
-
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-      consequat. 
-
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-      dolore eu 
-
-      fugiat nulla pariatur.
+    details1: |
+      •	Contributed to Rotary.org and My.Rotary.org member portal redesign; added new features for managing content using Drupal.
+    details2: |
+      • Performed code reviews for code pull requests throughout development team.
+    details3: |
+      • Worked toward bringing unit test best practices into the development workflow by defining specifications.
     technologies_used: |
       PHP, Docker, Drupal, Node.JS, JavaScript
   - role: Software Developer
     time: 2013-2017
     company: 'Steadfast Networks, LLC.'
-    details: >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-      veniam, 
-
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-      consequat. 
-
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-      dolore eu 
-
-      fugiat nulla pariatur.
+    details1: |
+      •	Implemented a client portal where support, billing and service management was tracked under a single-sign-in authentication system.
+    details2: |
+      •	Added client help desk features to cross-reference client details obtained from support ticket contents.
+    details3: |
+      •	Implemented an order form API that sent client order into a separate billing and device management system.
     technologies_used: |
       Python, PHP, JavaScript, Django, Docker
   - role: Software Developer
     time: 2012-2013
     company: 'Digital Management Partners, Inc.'
-    details: >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-      veniam, 
-
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-      consequat. 
-
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-      dolore eu 
-
-      fugiat nulla pariatur.
+    details1: |
+      •	Developed PXE based Linux provisioning system responsible for new client system installations.
+    details2: |
+      •	Added snapshot feature to client cloud portal website that uses the Xen hypervisor.
+    details3: |
+      •	Wrote and maintained software to track life cycle of server hardware parts and billable services.
     technologies_used: |
       PHP, Docker, Django, Python, JavaScript, Backbone.JS
 projects:
