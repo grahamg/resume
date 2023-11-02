@@ -39,13 +39,13 @@ experience:
   - role: Software Engineer
     time: January 2019-Present
     company: 'Performics, Publicis Groupe'
-    details: >
+    details: |
       * Maintained custom Django-based CMS to manage client advertising
-      campaigns.
+      campaigns.\n
 
       * Member of Benchtools product team, developing new features, triaging
       existing bugs, reviewing submitted code from other developers be merged.
-      Requirements gathering and prototyping new features. 
+      Requirements gathering and prototyping new features.\n
 
       * Implemented a system for managing and syndicating data pertaining to
       physical locations, typically for client who operate several instances of
