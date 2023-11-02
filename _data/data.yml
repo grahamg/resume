@@ -1,23 +1,19 @@
 name: Graham Greenfield
 support_dark_mode: true
 fork: true
-
-# Sidebar
 contact:
   email: grahamg@gmail.com
   github: grahamg
-  linkedin: grahamgre  
-  gitlab: 
-  twitter: 
-
+  linkedin: grahamgre
+  gitlab: null
+  twitter: null
 education:
   - degree: BSc in Computer Science
     time: 2004-2009
     university: University of Missouri-Columbia
-
 skills:
   - category: Language
-    skill: 
+    skill:
       - Java
       - Python
       - PHP
@@ -38,78 +34,87 @@ skills:
   - category: DevOps
     skill:
       - Docker
-      - Kubernetes 
-
-# Profile
-#profile: |
-#  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-#  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-#  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-#  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-#  fugiat nulla pariatur.
-
-# Experience
+      - Kubernetes
 experience:
   - role: Software Engineer
     time: January 2019-Present
-    company: Performics, Publicis Groupe
-    details: |
-      * Maintained custom Django-based CMS to manage client advertising campaigns.
-      * Member of Benchtools product team, developing new features, triaging existing bugs, reviewing submitted code from other developers be merged. Requirements gathering and prototyping new features. 
-      * Implemented a system for managing and syndicating data pertaining to physical locations, typically for client who operate several instances of them. Designed around the expectation that a client will provide a dataset of location details on an occasional basis like a REST API. 
-    technologies_used: | 
+    company: 'Performics, Publicis Groupe'
+    details: >
+      * Maintained custom Django-based CMS to manage client advertising
+      campaigns.
+
+      * Member of Benchtools product team, developing new features, triaging
+      existing bugs, reviewing submitted code from other developers be merged.
+      Requirements gathering and prototyping new features. 
+
+      * Implemented a system for managing and syndicating data pertaining to
+      physical locations, typically for client who operate several instances of
+      them. Designed around the expectation that a client will provide a dataset
+      of location details on an occasional basis like a REST API. 
+    technologies_used: |
       Google Cloud, AWS, Java, Spring, Node.JS, React
-  
   - role: Software Developer
     time: 2017-2019
     company: Rotary International
-    details: |
+    details: >
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      PHP, Docker, Drupal, Node.JS, JavaScript
 
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+      veniam, 
+
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat. 
+
+      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+      dolore eu 
+
+      fugiat nulla pariatur.
+    technologies_used: |
+      PHP, Docker, Drupal, Node.JS, JavaScript
   - role: Software Developer
     time: 2013-2017
-    company: Steadfast Networks, LLC.
-    details: |
+    company: 'Steadfast Networks, LLC.'
+    details: >
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Python, PHP, JavaScript, Django, Docker
 
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+      veniam, 
+
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat. 
+
+      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+      dolore eu 
+
+      fugiat nulla pariatur.
+    technologies_used: |
+      Python, PHP, JavaScript, Django, Docker
   - role: Software Developer
     time: 2012-2013
-    company: Digital Management Partners, Inc.
-    details: |
+    company: 'Digital Management Partners, Inc.'
+    details: >
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      PHP, Docker, Django, Python, JavaScript, Backbone.JS
 
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+      veniam, 
+
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+      consequat. 
+
+      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+      dolore eu 
+
+      fugiat nulla pariatur.
+    technologies_used: |
+      PHP, Docker, Django, Python, JavaScript, Backbone.JS
 projects:
   - title: Chess via email
-    link: https://www.chessvia.email
-    details: |
-      Node.JS service built with Express.js that provides a publically accessible UI in React.js.
-      Ability to play chess between two players moderated through Email correspondence, using a graphical
-      JavaScript based game board.
+    link: 'https://www.chessvia.email'
+    details: >
+      Node.JS service built with Express.js that provides a publically
+      accessible UI in React.js.
 
-# Volunteering
-#volunteering:
-#  - time: 2020-Present
-#    role: PR Manager
-#    company: Some random organization
-#    details: |
-#      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-#      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-#      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      Ability to play chess between two players moderated through Email
+      correspondence, using a graphical
+
+      JavaScript based game board.
