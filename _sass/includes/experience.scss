@@ -14,6 +14,9 @@
                 color: var(--fg-color-title-sm);
                 font-weight: 100;
             }
+            a {
+                text-decoration: none;
+            }
         }
         .details {
             @include body-text;
