@@ -37,7 +37,9 @@ skills:
 experience:
   - role: Software Engineer
     time: January 2019-October 2023
-    company: Performics, Publicis Groupe (Chicago, Illinois)
+    company: Performics, Publicis Groupe
+    company_href: https://www.performics.com
+    company_location: Chicago, Illinois
     details1: |
       • Led onboarding of new clients to custom Django-based CMS for managing client websites.
     details2: |
@@ -50,7 +52,9 @@ experience:
       Django, Python, AWS, Java, Spring, Node.JS, React, Laravel, PHP
   - role: Software Developer
     time: February 2017-December 2019
-    company: Rotary International (Evanston, Illinois)
+    company: Rotary International
+    company_href: https://www.rotary.org
+    company_location: Evanston, Illinois
     details1: |
       •	Contributor to Rotary.org and My.Rotary.org product team with Drupal plugin development. Involved in modernization of the back-end
       CMS from Drupal 7 to Zend Framework, which helped to implement best practices with a more predictable feature release schedule.
@@ -65,6 +69,8 @@ experience:
   - role: Software Developer
     time: June 2013-February 2017
     company: Steadfast Networks, LLC. (Chicago, Illinois)
+    company_href: https://www.steadfast.net
+    company_location: Chicago, Illinois
     details1: |
       •	Reduced overall client data redundancy by integrating a client facing web portal into serveral back-office systems using a Django-based API
       as a service.
@@ -77,6 +83,8 @@ experience:
   - role: Software Developer
     time: July 2012-September 2013
     company: Digital Management Partners, Inc. (Arlington Heights, Illinois)
+    comapny_href: https://www.gigenet.com
+    company_location: Arlington Heights, Illinois
     details1: |
       •	Integrated a Django-based application to kickstart Linux installs leading to a more automated client onboarding experience in dedicated server setup.
     details2: |
