@@ -79,9 +79,9 @@ experience:
     details1: |
       •	Integrated a Django-based application to kickstart Linux installs leading to a more automated client onboarding experience in dedicated server setup.
     details2: |
-      •	Integrated a virtual machine "snapshot" feature into the the Xen-based cloud portal web application which allowed VM state to be preserved on-demand. 
+      •	Integrated a virtual machine "snapshot" feature into the the Xen-based cloud portal web application which allowed virtual machine state to be preserved on-demand. 
     details3: |
-      •	Wrore and maintained sofware to track the life-cycle or server hardware components and billable services, resulting in a more efficient use of resources.
+      •	Wrote and maintained sofware to track the life-cycle or server hardware components and billable services, resulting in a more efficient use of resources.
     technologies_used: |
       PHP, Docker, Django, Python, JavaScript, Backbone.JS, jQuery
 projects:
