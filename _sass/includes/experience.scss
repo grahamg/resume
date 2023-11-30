@@ -18,11 +18,6 @@
         .details {
             @include body-text;
         }
-        .company-href {
-            @include body-text;
-            font-weight: bold;
-            text-decoration: none;
-        }
         .technologies {
             @include body-text;
         }
