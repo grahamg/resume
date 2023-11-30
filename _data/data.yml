@@ -83,7 +83,7 @@ experience:
   - role: Software Developer
     time: July 2012-September 2013
     company: Digital Management Partners, Inc.
-    comapny_href: https://www.gigenet.com
+    company_href: https://www.gigenet.com
     company_location: Arlington Heights, Illinois
     details1: |
       •	Integrated a Django-based application to kickstart Linux installs leading to a more automated client onboarding experience in dedicated server setup.
