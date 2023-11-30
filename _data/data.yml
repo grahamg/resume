@@ -49,23 +49,24 @@ experience:
     technologies_used: |
       Django, Python, AWS, Java, Spring, Node.JS, React, Laravel, PHP
   - role: Software Developer
-    time: 2017-2019
+    time: February 2017-December 2019
     company: Rotary International (Evanston, Illinois)
     details1: |
       •	Contributor to Rotary.org and My.Rotary.org product team with Drupal plugin development. Involved in modernization of the back-end
       CMS from Drupal 7 to Zend Framework, which helped to implement best practices with a more predictable feature release schedule.
     details2: |
-      • Involved with team-effort to ensure high software development standards through code reviews for all pull requests throughout the
-      product team.
+      • Provided code reviews for peer pull request submissions accross all projects; ensuring best practices and a consistant style was
+      enforced for deployed code.
     details3: |
-      • Involved in increasing unit test coverage into legacy codebase by refactoring select areas to allow for greater modularity.
+      • Involved in increasing unit test coverage into legacy codebase by refactoring select areas to allow for greater modularity and
+      testability.
     technologies_used: |
       PHP, Docker, Drupal, Zend Framework, Node.JS, JavaScript
   - role: Software Developer
-    time: 2013-2017
+    time: June 2013-February 2017
     company: Steadfast Networks, LLC. (Chicago, Illinois)
     details1: |
-      •	Reduced overall client data redundency by integrating a client facing web portal into serveral back-office systems using a Django-based API
+      •	Reduced overall client data redundancy by integrating a client facing web portal into serveral back-office systems using a Django-based API
       as a service.
     details2: |
       •	Added client help-desk features to allow for support tech staff to more efficiently cross-reference client details and services.
@@ -74,7 +75,7 @@ experience:
     technologies_used: |
       Python, PHP, JavaScript, Backbone.JS, jQuery, Django, Docker
   - role: Software Developer
-    time: 2012-2013
+    time: July 2012-September 2013
     company: Digital Management Partners, Inc. (Arlington Heights, Illinois)
     details1: |
       •	Integrated a Django-based application to kickstart Linux installs leading to a more automated client onboarding experience in dedicated server setup.
