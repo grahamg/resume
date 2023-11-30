@@ -59,7 +59,7 @@ experience:
       •	Contributor to Rotary.org and My.Rotary.org product team with Drupal plugin development. Involved in modernization of the back-end
       CMS from Drupal 7 to Zend Framework, which helped to implement best practices with a more predictable feature release schedule.
     details2: |
-      • Provided code reviews for peer pull request submissions accross all projects; ensuring best practices and a consistant style was
+      • Provided code reviews for peer pull request submissions across all projects; ensuring best practices and a consistent style was
       enforced for deployed code.
     details3: |
       • Involved in increasing unit test coverage into legacy codebase by refactoring select areas to allow for greater modularity and
@@ -72,12 +72,12 @@ experience:
     company_href: https://www.steadfast.net
     company_location: Chicago, Illinois
     details1: |
-      •	Reduced overall client data redundancy by integrating a client facing web portal into serveral back-office systems using a Django-based API
+      •	Reduced overall client data redundancy by integrating a client facing web portal into several back-office systems using a Django-based API
       as a service.
     details2: |
       •	Added client help-desk features to allow for support tech staff to more efficiently cross-reference client details and services.
     details3: |
-      •	Implemented a website order form back-end in PHP which helped to unify the billing and device managment system for incoming client orders.
+      •	Implemented a website order form back-end in PHP which helped to unify the billing and device management system for incoming client orders.
     technologies_used: |
       Python, PHP, JavaScript, Backbone.JS, jQuery, Django, Docker
   - role: Software Developer
@@ -86,11 +86,11 @@ experience:
     company_href: https://www.gigenet.com
     company_location: Arlington Heights, Illinois
     details1: |
-      •	Integrated a Django-based application to kickstart Linux installs leading to a more automated client onboarding experience in dedicated server setup.
+      •	Integrated a Django-based application to kickstart Linux installations leading to a more automated client onboarding experience in dedicated server setup.
     details2: |
-      •	Integrated a virtual machine "snapshot" feature into the the Xen-based cloud portal web application which allowed virtual machine state to be preserved on-demand. 
+      •	Integrated a virtual machine "snapshot" feature into the Xen-based cloud portal web application which allowed virtual machine state to be preserved on-demand. 
     details3: |
-      •	Wrote and maintained sofware to track the life-cycle or server hardware components and billable services, resulting in a more efficient use of resources.
+      •	Wrote and maintained software to track the life cycle or server hardware components and billable services, resulting in a more efficient use of resources.
     technologies_used: |
       PHP, Docker, Django, Python, JavaScript, Backbone.JS, jQuery
 projects:
