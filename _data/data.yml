@@ -18,7 +18,6 @@ skills:
       - Python
       - PHP
       - JavaScript
-      - TypeScript
       - Go
       - C
   - category: Backend
@@ -40,51 +39,51 @@ experience:
     time: January 2019-October 2023
     company: 'Performics, Publicis Groupe'
     details1: |
-      • Maintained custom Django-based CMS to manage client advertising campaigns.
+      • Led onboarding of new clients to custom Django-based CMS for managing client websites.
     details2: |
-      • Member of Benchtools product team, developing new features, triaging
-      existing bugs, reviewing submitted code from other developers be merged.
-      Requirements gathering and prototyping new features.
+      • Member of Benchtools product team. Developed new features, resolved reported defects, performed code reviews
+      which over the course of three years led to the modernization of the project to a cloud-based microservice architecture. 
     details3: |
-      • Implemented a system for managing and syndicating data pertaining to
-      physical locations, typically for client who operate several instances of
-      them. Designed around the expectation that a client will provide a dataset
-      of location details on an occasional basis like a REST API. 
+      • Led development for a Django-based service to transform internal client API data and information at their various physical
+      locations into Google Maps, Yelp, Apple Maps, and other similar upstream providers.
     technologies_used: |
-      Google Cloud, AWS, Java, Spring, Node.JS, React
+      Django, Python, AWS, Java, Spring, Node.JS, React, Laravel, PHP
   - role: Software Developer
     time: 2017-2019
     company: Rotary International
     details1: |
-      •	Contributed to Rotary.org and My.Rotary.org member portal redesign; added new features for managing content using Drupal.
+      •	Contributor to Rotary.org and My.Rotary.org product team with Drupal plugin development. Involved in modernization of the back-end
+      CMS from Drupal 7 to Zend Framework, which helped to implement best practices with a more predictable feature release schedule.
     details2: |
-      • Performed code reviews for code pull requests throughout development team.
+      • Involved with team-effort to ensure high software development standards through code reviews for all pull requests throughout the
+      product team.
     details3: |
-      • Worked toward bringing unit test best practices into the development workflow by defining specifications.
+      • Involved in increasing unit test coverage into legacy codebase by refactoring select areas to allow for greater modularity.
     technologies_used: |
-      PHP, Docker, Drupal, Node.JS, JavaScript
+      PHP, Docker, Drupal, Zend Framework, Node.JS, JavaScript
   - role: Software Developer
     time: 2013-2017
     company: 'Steadfast Networks, LLC.'
     details1: |
-      •	Implemented a client portal where support, billing and service management was tracked under a single-sign-in authentication system.
+      •	Reduced overall client data redundency by integrating a client facing web portal into serveral back-office systems using a Django-based API
+      as a service.
     details2: |
-      •	Added client help desk features to cross-reference client details obtained from support ticket contents.
+      •	Added client help-desk features to allow for support tech staff to more efficiently cross-reference client details and services.
     details3: |
-      •	Implemented an order form API that sent client order into a separate billing and device management system.
+      •	Implemented a website order form back-end in PHP which helped to unify the billing and device managment system for incoming client orders.
     technologies_used: |
-      Python, PHP, JavaScript, Django, Docker
+      Python, PHP, JavaScript, Backbone.JS, jQuery, Django, Docker
   - role: Software Developer
     time: 2012-2013
     company: 'Digital Management Partners, Inc.'
     details1: |
-      •	Developed PXE based Linux provisioning system responsible for new client system installations.
+      •	Integrated a Django-based application to kickstart Linux installs leading to a more automated client onboarding experience in dedicated server setup.
     details2: |
-      •	Added snapshot feature to client cloud portal website that uses the Xen hypervisor.
+      •	Integrated a virtual machine "snapshot" feature into the the Xen-based cloud portal web application which allowed VM state to be preserved on-demand. 
     details3: |
-      •	Wrote and maintained software to track life cycle of server hardware parts and billable services.
+      •	Wrore and maintained sofware to track the life-cycle or server hardware components and billable services, resulting in a more efficient use of resources.
     technologies_used: |
-      PHP, Docker, Django, Python, JavaScript, Backbone.JS
+      PHP, Docker, Django, Python, JavaScript, Backbone.JS, jQuery
 projects:
   - title: Chess via email
     link: 'https://www.chessvia.email'
